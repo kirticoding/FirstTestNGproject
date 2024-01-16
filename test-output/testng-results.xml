@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-16T17:26:44 IST" name="Suite" finished-at="2024-01-16T17:26:51 IST" duration-ms="7373">
+    <groups>
+    </groups>
+    <test started-at="2024-01-16T17:26:44 IST" name="Test" finished-at="2024-01-16T17:26:51 IST" duration-ms="7373">
+      <class name="org.google.TestGoogleSearch">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:org.google.TestGoogleSearch@53045c6c]" started-at="2024-01-16T17:26:44 IST" name="beforeTest" finished-at="2024-01-16T17:26:51 IST" duration-ms="6632" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="search()[pri:0, instance:org.google.TestGoogleSearch@53045c6c]" started-at="2024-01-16T17:26:51 IST" name="search" finished-at="2024-01-16T17:26:51 IST" duration-ms="483" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:org.google.TestGoogleSearch@53045c6c]" started-at="2024-01-16T17:26:51 IST" name="afterTest" finished-at="2024-01-16T17:26:51 IST" duration-ms="191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- org.google.TestGoogleSearch -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
